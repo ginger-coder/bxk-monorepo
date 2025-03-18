@@ -6,7 +6,8 @@
     "test": "lerna run test",
     "clean": "lerna clean",
     "watch": "lerna run --parallel watch",
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "version": "lerna version"
   },
   "workspaces": [
     "packages/*",
