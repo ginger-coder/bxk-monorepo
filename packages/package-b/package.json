@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/package-b",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "Package B description",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "prepublishOnly": "pnpm run build"
   },
   "dependencies": {
-    "@my-scope/package-a": "^1.2.4"
+    "@my-scope/package-a": "workspace:*"
   },
   "devDependencies": {
     "ts-node": "^10.0.0",
