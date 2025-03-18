@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/package-b",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Package B description",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "prepublishOnly": "pnpm run build"
   },
   "dependencies": {
-    "@my-scope/package-a": "workspace:*"
+    "@my-scope/package-a": "1.2.1"
   },
   "devDependencies": {
     "ts-node": "^10.0.0",
@@ -22,5 +22,6 @@
   "publishConfig": {
     "access": "public",
     "pnpmPublishCommandOptions": "--no-git-checks"
-  }
+  },
+  "gitHead": "00d3fbb2ad06c38d0d0bea5ac2ed2737b6178307"
 }
