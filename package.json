@@ -9,7 +9,8 @@
     "publish": "lerna publish"
   },
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "apps/*"
   ],
   "dependencies": {},
   "devDependencies": {
