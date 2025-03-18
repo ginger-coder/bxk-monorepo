@@ -8,7 +8,7 @@
     "clean": "lerna clean",
     "watch": "lerna run --parallel watch",
     "publish": "lerna publish",
-    "version": "pnpm lerna version"
+    "version": "lerna version"
   },
   "workspaces": [
     "packages/*",
