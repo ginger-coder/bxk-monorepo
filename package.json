@@ -17,5 +17,8 @@
   "dependencies": {},
   "devDependencies": {
     "lerna": "^8.2.1"
+  },
+  "engines": {
+    "node": "~v16.20.2"
   }
 }
