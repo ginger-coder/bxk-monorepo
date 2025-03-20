@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.19](https://github.com/ginger-coder/bxk-monorepo/compare/example-app@1.2.14...example-app@1.2.19) (2025-03-20)
+
+**Note:** Version bump only for package example-app
+
+
+
+
+
 ## [1.2.18](https://github.com/ginger-coder/bxk-monorepo/compare/example-app@1.2.14...example-app@1.2.18) (2025-03-20)
 
 **Note:** Version bump only for package example-app
