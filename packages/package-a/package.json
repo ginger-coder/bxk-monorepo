@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/package-a",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "description": "Package A description",
   "main": "dist/index.js",
   "scripts": {
