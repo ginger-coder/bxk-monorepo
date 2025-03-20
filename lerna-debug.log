@@ -1,0 +1,18 @@
+60 error Error: Command failed with exit code 1: pnpm install --lockfile-only --ignore-scripts
+60 error Scope: all 4 workspace projects
+60 error  WARN  `node_modules` is present. Lockfile only installation will make it out-of-date
+60 error Progress: resolved 1, reused 0, downloaded 0, added 0
+60 error Progress: resolved 2, reused 0, downloaded 0, added 0
+60 error D:\workspace\bxk-monorepo\packages\package-b:
+60 error  ERR_PNPM_FETCH_404  GET http://localhost:4873/@my-scope%2Fpackage-a: Not Found - 404
+60 error
+60 error This error happened while installing a direct dependency of D:\workspace\bxk-monorepo\packages\package-b
+60 error
+60 error @my-scope/package-a is not in the npm registry, or you have no permission to fetch it.
+60 error
+60 error An authorization header was used: Bearer eyJh[hidden]
+60 error     at makeError (D:\workspace\bxk-monorepo\node_modules\.pnpm\execa@5.0.0\node_modules\execa\lib\error.js:59:11)
+60 error     at handlePromise (D:\workspace\bxk-monorepo\node_modules\.pnpm\execa@5.0.0\node_modules\execa\index.js:114:26)
+60 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+60 error     at async VersionCommand.updatePackageVersions (D:\workspace\bxk-monorepo\node_modules\.pnpm\lerna@8.2.1_encoding@0.1.13\node_modules\lerna\dist\index.js:9868:11)
+60 error     at async Promise.all (index 0)

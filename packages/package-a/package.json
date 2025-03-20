@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/package-a",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "description": "Package A description",
   "main": "dist/index.js",
   "scripts": {
@@ -20,5 +20,5 @@
     "access": "public",
     "pnpmPublishCommandOptions": "--no-git-checks"
   },
-  "gitHead": "00d3fbb2ad06c38d0d0bea5ac2ed2737b6178307"
+  "gitHead": "7bc42a3fc6b232b8c42958811c78e3c0168fe697"
 }
