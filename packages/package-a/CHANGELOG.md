@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/ginger-coder/bxk-monorepo/compare/@my-scope/package-a@1.0.3...@my-scope/package-a@1.1.0) (2025-03-20)
+
+
+### Features
+
+* 更新 ([ce99fbc](https://github.com/ginger-coder/bxk-monorepo/commit/ce99fbc7ff0d5af9230865137aa60a56fca54f82))
+
+
+
+
+
 ## [1.0.3](https://github.com/ginger-coder/bxk-monorepo/compare/@my-scope/package-a@1.0.2...@my-scope/package-a@1.0.3) (2025-03-20)
 
 **Note:** Version bump only for package @my-scope/package-a
