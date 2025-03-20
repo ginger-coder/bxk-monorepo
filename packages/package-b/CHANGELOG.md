@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.14](https://github.com/ginger-coder/bxk-monorepo/compare/@my-scope/package-b@1.5.11...@my-scope/package-b@1.5.14) (2025-03-20)
+
+**Note:** Version bump only for package @my-scope/package-b
+
+
+
+
+
 ## [1.5.13](https://github.com/ginger-coder/bxk-monorepo/compare/@my-scope/package-b@1.5.11...@my-scope/package-b@1.5.13) (2025-03-20)
 
 **Note:** Version bump only for package @my-scope/package-b
