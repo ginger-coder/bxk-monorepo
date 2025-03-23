@@ -17,5 +17,6 @@
   "dependencies": {},
   "devDependencies": {
     "lerna": "^8.2.1"
-  }
+  },
+  "packageManager": "pnpm@9.15.4"
 }
