@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/ginger-coder/bxk-monorepo/compare/example-app@1.11.1...example-app@1.3.0) (2025-03-23)
+
+
+### Features
+
+* init ([c312eae](https://github.com/ginger-coder/bxk-monorepo/commit/c312eaed81e1e2c08f03ca7b26ccc1b1f53fe0f8))
+* init ([0de7762](https://github.com/ginger-coder/bxk-monorepo/commit/0de77620d7ec1283176a430567ef6740cd74fa1b))
+* init ([f666fcb](https://github.com/ginger-coder/bxk-monorepo/commit/f666fcb23dfe42d13b80245788865e9d03d40c80))
+* init ([a72c482](https://github.com/ginger-coder/bxk-monorepo/commit/a72c48240b4566d70528a0cb8fb508cf4099c402))
+
+
+
+
+
 # [1.2.0](https://github.com/ginger-coder/bxk-monorepo/compare/example-app@1.11.1...example-app@1.2.0) (2025-03-23)
 
 
