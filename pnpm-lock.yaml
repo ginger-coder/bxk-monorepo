@@ -17,10 +17,10 @@ importers:
 
   apps/example-app:
     dependencies:
-      '@my-scope/package-a':
+      '@bianxk/package-a':
         specifier: workspace:*
         version: link:../../packages/package-a
-      '@my-scope/package-b':
+      '@bianxk/package-b':
         specifier: workspace:*
         version: link:../../packages/package-b
     devDependencies:
@@ -133,7 +133,7 @@ importers:
 
   packages/package-b:
     dependencies:
-      '@my-scope/package-a':
+      '@bianxk/package-a':
         specifier: workspace:*
         version: link:../package-a
     devDependencies:

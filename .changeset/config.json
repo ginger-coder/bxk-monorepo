@@ -3,7 +3,7 @@
     "changelog": "@changesets/cli/changelog",
     "commit": false,
     "fixed": [],
-    "linked": [["@my-scope/*"]],
+    "linked": [["@bianxk/*"]],
     "access": "restricted",
     "baseBranch": "main",
     "updateInternalDependencies": "patch",

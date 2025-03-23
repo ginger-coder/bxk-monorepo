@@ -6,8 +6,8 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
-    "@my-scope/package-a": "workspace:*",
-    "@my-scope/package-b": "workspace:*"
+    "@bianxk/package-a": "workspace:*",
+    "@bianxk/package-b": "workspace:*"
   },
   "devDependencies": {
     "ts-node": "^10.0.0",
