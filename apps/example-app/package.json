@@ -1,6 +1,6 @@
 {
   "name": "example-app",
-  "version": "1.11.2",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "ts-node src/index.ts"
