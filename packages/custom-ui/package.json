@@ -1,7 +1,7 @@
 {
   "name": "@bianxk/custom-ui",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "基于radix-ui的组件库",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
     "build-storybook": "storybook build"
   },
   "keywords": [],
-  "author": "",
+  "author": "bianxk",
   "license": "ISC",
   "publishConfig": {
     "access": "public",
