@@ -9,9 +9,9 @@ export default {
         variant: {
             control: {
                 type: "select",
-                options: ["primary", "secondary", "outline"],
+                options: ["default", "secondary", "outline", "destructive", "ghost", "link"],
             },
-            defaultValue: "primary",
+            defaultValue: "default",
         },
         size: {
             control: { type: "select", options: ["sm", "md", "lg"] },
@@ -27,37 +27,37 @@ export default {
 
 const Template: StoryFn<typeof Button> = (args) => <Button {...args} />;
 
-export const Primary = Template.bind({});
+export const Primary: StoryFn<typeof Button> = Template.bind({});
 Primary.args = {
-    variant: "primary",
+    variant: "default",
     children: "Primary Button",
 };
 
-export const Secondary = Template.bind({});
+export const Secondary: StoryFn<typeof Button> = Template.bind({});
 Secondary.args = {
     variant: "secondary",
     children: "Secondary Button",
 };
 
-export const Outline = Template.bind({});
+export const Outline: StoryFn<typeof Button> = Template.bind({});
 Outline.args = {
     variant: "outline",
     children: "Outline Button",
 };
 
-export const Small = Template.bind({});
+export const Small: StoryFn<typeof Button> = Template.bind({});
 Small.args = {
     size: "sm",
     children: "Small Button",
 };
 
-export const Large = Template.bind({});
+export const Large: StoryFn<typeof Button> = Template.bind({});
 Large.args = {
     size: "lg",
     children: "Large Button",
 };
 
-export const Disabled = Template.bind({});
+export const Disabled: StoryFn<typeof Button> = Template.bind({});
 Disabled.args = {
     disabled: true,
     children: "Disabled Button",

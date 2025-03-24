@@ -1,5 +1,4 @@
 
-
-> @bianxk/package-b@2.0.0 build /Users/bianxiaokai/workspace/web3/bxk-monorepo/packages/package-b
-> tsc
+> @bianxk/package-b@2.0.0 build D:\workspace\bxk-monorepo\packages\package-b
+> tsc --build
 

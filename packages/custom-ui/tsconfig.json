@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "NodeNext",
+    "target": "ESNext",
+    "declaration": true,
+    "jsx": "react-jsx", // 如果使用 React
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "strict": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["stories/**/*", "storybook-static/**/*"]
+}

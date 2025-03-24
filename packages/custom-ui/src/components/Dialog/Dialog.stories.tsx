@@ -40,7 +40,7 @@ const Template: StoryFn<typeof Dialog> = (args) => (
     </Dialog>
 );
 
-export const Basic = Template.bind({});
+export const Basic: StoryFn<typeof Dialog> = Template.bind({});
 Basic.args = {};
 
 export const WithLongContent = () => (

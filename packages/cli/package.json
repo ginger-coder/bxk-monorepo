@@ -12,6 +12,10 @@
     "types"
   ],
   "author": "bxk0129@163.com",
+  "publishConfig": {
+    "access": "public",
+    "pnpmPublishCommandOptions": "--no-git-checks"
+  },
   "license": "ISC",
   "dependencies": {
     "@darkobits/lolcatjs": "^3.1.3",
