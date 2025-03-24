@@ -1,6 +1,6 @@
 {
   "name": "@bianxk/custom-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "基于radix-ui的组件库",
   "main": "dist/components/index.js",
   "types": "dist/components/index.d.ts",
